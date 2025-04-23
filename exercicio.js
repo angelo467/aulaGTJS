@@ -60,6 +60,7 @@ let cidade = "Fortaleza";
 //Tarefa 1: Crie uma frase que combine todas essas informações usando o 
 //operador + para concatenar as strings e as variáveis. O resultado esperado é algo como: "Meu nome completo é Carlos Silva, tenho 30 anos, moro em Fortaleza e sou Desenvolvedor."
 
+console.log('Meu nome completo é ' + nome2 + ' '+ sobreNome + ', tenho' + ' ' + idade2 + ' ' + 'moro em' + ' ' + cidade + ' ' + 'e sou de Desenvolvedor.')
 //Tarefa 2: Agora, tente criar uma mensagem mais elaborada, incluindo algumas
 //pontuações e palavras extras: "Olá! Meu nome é Carlos Silva e tenho 30 anos. 
 //Atualmente, trabalho como Desenvolvedor na bela cidade de Fortaleza."
